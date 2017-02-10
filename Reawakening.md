@@ -1,11 +1,11 @@
-# Reawakening 
-## 9days Travel to Taiwan 
+# Reawakening
+## 9days Travel to Taiwan
 ![][image-1]
 ### Intro
-정말 오랜만에 여행같은 여행을 다녀왔다.   
+정말 오랜만에 여행같은 여행을 다녀왔다.  
 2014년 태국 카오락 여행을 마지막으로 해외로 나간 일이 없었다. (장가계는 제외…) ‘해외여행을 가고싶다’는 생각이 몇년간 해소되지 못하고 쌓이더니 결국 넘쳐흘러 나의 멘탈을 휘져어버렸다. 경주 여행으로 마음을 달래보려했지만, 이 욕구불만은 다른 방법으로는 해결될 기미가 보이지 않았다. (그렇다고 내가 평소에 얌전했다는건 아니지만…)
-여름 휴가지로 대만을 선택하게 된 이유는 3가지 정도가 있는데, 현실적인 이유로는 그리 길지않은 휴가기간과 충분하지 못한 여행자금이 되시겠다. 그리고 선택할수 있는 범위안에서 가고 싶은 나라인 베트남 무이네, 태국, 중국 상해 중 주변인들이 최근에 많이 다녀온 대만을 선택하게 된다.   
-가장 끌리는 요인은 ‘야시장’.   
+여름 휴가지로 대만을 선택하게 된 이유는 3가지 정도가 있는데, 현실적인 이유로는 그리 길지않은 휴가기간과 충분하지 못한 여행자금이 되시겠다. 그리고 선택할수 있는 범위안에서 가고 싶은 나라인 베트남 무이네, 태국, 중국 상해 중 주변인들이 최근에 많이 다녀온 대만을 선택하게 된다.  
+가장 끌리는 요인은 ‘야시장’.  
 ‘센과 치히로의 행방불명’ 속 야시장의 모습의 영감을 받았다는 지우펀(九份,Jiufen)이 가장 기대되는 장소였다. 
 
 ### Good Things to know before traveling
@@ -21,19 +21,19 @@
 ### Prep step
 - 스마트폰
 - 일단 위시빈으로 만든 가이드북. 
-	_(여행 2일째에 분실함 ㅋㅋㅋㅋㅋㅋㅜ)
+	\_(여행 2일째에 분실함 ㅋㅋㅋㅋㅋㅋㅜ)
 - 11월에 가는 여행이니 만큼 여러 날씨를 대비한 옷.
 	_더운날(챙모자,선글라스), 추운날(바람막이 + 유니끌로 패딩), 비오는날(우산)에 대한 대비를 다해 갔었다._
 - 오랜만에 해외 같이 나가는 Lumix LX3
-	_폰 배터리에 신경쓰고 싶지 않아 사진은 따로 찍기 위해서 가벼운 카메라를 챙겼다.
+	\_폰 배터리에 신경쓰고 싶지 않아 사진은 따로 찍기 위해서 가벼운 카메라를 챙겼다.
 - 살만한 기념품 조사
 	_이미갔다온 지인들에게 기념품으로 뭘 사오면 좋을지, 물어보긔_
 - 환전 
-	_NT$13,000 ≒ 466,700₩ / 35.9로 환전 / @명동 환전소  
+	\_NT$13,000 ≒ 466,700₩ / 35.9로 환전 / @명동 환전소  
 	(숙박(게스트하우스,호텔) 교통(HSR) 등 미리 결재할만한 것들은 제외) 
 
 직접 짠 위시빈 일정을 공유하도록 하겠슴돠.
-\<script type="text/javascript" \>if(Object.prototype.hasOwnProperty.call(window,"wishbeen")){window.wishbeen.iframeIds.push("wishbeen-embed7086");}else{window.wishbeen = {}; window.wishbeen.iframeIds = [](); window.wishbeen.isContentOnly = false; window.wishbeen.iframeHost = "https://www.wishbeen.co.kr"; window.wishbeen.iframeIds.push("wishbeen-embed7086");}; \</script\>\<script type="text/javascript" src="https://www.wishbeen.co.kr/js/lib/iframePreProcess.js"\>\</script\>\<iframe id="wishbeen-embed7086" height="800px" class="wishbeen-embed" src="https://www.wishbeen.co.kr/embed/plan?id=c92eb65f99606812&options=introduction&options=map&options=outline&options=checklist&viewType=simple" style="border:0; width :100%; overflow:hidden;"\>\</iframe\>\<script type="text/javascript" src="https://www.wishbeen.co.kr/js/lib/iframePostProcess.js"\>\</script\>
+\<script type="text/javascript" \>if(Object.prototype.hasOwnProperty.call(window,"wishbeen")){window.wishbeen.iframeIds.push("wishbeen-embed26901");}else{window.wishbeen = {}; window.wishbeen.iframeIds = [](); window.wishbeen.isContentOnly = false; window.wishbeen.iframeHost = "https://www.wishbeen.co.kr"; window.wishbeen.iframeIds.push("wishbeen-embed26901");}; \</script\>\<script type="text/javascript" src="https://www.wishbeen.co.kr/js/lib/iframePreProcess.js"\>\</script\>\<iframe id="wishbeen-embed26901" height="800px" class="wishbeen-embed" src="https://www.wishbeen.co.kr/embed/plan?id=c92eb65f99606812&options=introduction&options=map&options=outline&options=checklist&viewType=simple" style="border:0; width :100%; overflow:hidden;"\>\</iframe\>\<script type="text/javascript" src="https://www.wishbeen.co.kr/js/lib/iframePostProcess.js"\>\</script\>
 
 [1]:	http://cafe.naver.com/taiwantour
 [2]:	https://www.wishbeen.co.kr/
