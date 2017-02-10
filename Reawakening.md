@@ -35,10 +35,7 @@
 직접 짠 위시빈 일정을 공유하겠습니다.
 <script type="text/javascript" >if(Object.prototype.hasOwnProperty.call(window,"wishbeen")){window.wishbeen.iframeIds.push("wishbeen-embed32509");}else{window.wishbeen = {}; window.wishbeen.iframeIds = []; window.wishbeen.isContentOnly = false; window.wishbeen.iframeHost = "https://www.wishbeen.co.kr"; window.wishbeen.iframeIds.push("wishbeen-embed32509");}; </script><script type="text/javascript" src="https://www.wishbeen.co.kr/js/lib/iframePreProcess.js"></script><iframe id="wishbeen-embed32509" height="800px" class="wishbeen-embed" src="https://www.wishbeen.co.kr/embed/plan?id=c92eb65f99606812&options=introduction&options=map&options=outline&options=checklist&viewType=simple" style="border:0; width :100%; overflow:hidden;"></iframe><script type="text/javascript" src="https://www.wishbeen.co.kr/js/lib/iframePostProcess.js"></script>
 
-\<script type="text/javascript" \>if(Object.prototype.hasOwnProperty.call(window,"wishbeen")){window.wishbeen.iframeIds.push("wishbeen-embed32509");}else{window.wishbeen = {}; window.wishbeen.iframeIds = [](); window.wishbeen.isContentOnly = false; window.wishbeen.iframeHost = "https://www.wishbeen.co.kr"; window.wishbeen.iframeIds.push("wishbeen-embed32509");}; \</script\>\<script type="text/javascript" src="https://www.wishbeen.co.kr/js/lib/iframePreProcess.js"\>\</script\>\<iframe id="wishbeen-embed32509" height="800px" class="wishbeen-embed" src="https://www.wishbeen.co.kr/embed/plan?id=c92eb65f99606812&options=introduction&options=map&options=outline&options=checklist&viewType=simple" style="border:0; width :100%; overflow:hidden;"\>\</iframe\>\<script type="text/javascript" src="https://www.wishbeen.co.kr/js/lib/iframePostProcess.js"\>\</script\>
-
 [1]:	http://cafe.naver.com/taiwantour
 [2]:	https://www.wishbeen.co.kr/
-
 
 [image-1]:	https://farm1.staticflickr.com/529/32602310222_ca76d49c89_b.jpg
