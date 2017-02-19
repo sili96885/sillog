@@ -1,3 +1,4 @@
+# 상수에서 합정까지 맛집리스트
 '건대 맛집 리스트'에 이어 *’상수부터 합정까지 맛집 리스트’*를 작성하려 한다. 기존에 이글루스에 업데이트 했었던, 건대리스트와 이태원리스트 또한 옮겨오려고 계획중. 역시 홈페이지 활성화를 위해선 맛집 포스팅이 진리인 것인가.
 
  <p style="padding-left: 30px;">_난 현재 상수역 근처에 살고있다. 지도상에서 상수역과 합정역을 선을 이어 긋는다면 난 남쪽, 한강쪽에 살고있다. 여기서 산지 만3년이 다 되어간다.   
@@ -9,6 +10,7 @@
 ## <span style="color: #ff6863;">I</span> 상수-합정(당인리길) 맛집
 ### List of <span style="text-decoration: underline;">_local_</span> Restaurants with delicious food from Sangsu to Hapjeong (2017/02)
 
+----
 ##### <span style="color: #808000;">• Cafe (Coffee and Dessert) •</span>
 
 
