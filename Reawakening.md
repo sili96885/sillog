@@ -1,7 +1,6 @@
 # Reawakening
 ## 9days Travel to Taiwan
-![](https://c1.staticflickr.com/1/312/32727769086_48cfd72772_c.jpg)
-
+![](https://c1.staticflickr.com/1/312/32727769086_48cfd72772.jpg)
 
 
 ### Intro
