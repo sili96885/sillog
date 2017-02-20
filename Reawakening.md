@@ -1,6 +1,8 @@
 # Reawakening
 ## 9days Travel to Taiwan
-![][image-1]
+![](https://c1.staticflickr.com/1/312/32727769086_48cfd72772_c.jpg)
+
+
 
 ### Intro
 정말 오랜만에 여행같은 여행을 다녀왔다.  
@@ -39,5 +41,3 @@
 
 [1]:	http://cafe.naver.com/taiwantour
 [2]:	https://www.wishbeen.co.kr/
-
-[image-1]:	https://farm1.staticflickr.com/529/32602310222_ca76d49c89_b.jpg
